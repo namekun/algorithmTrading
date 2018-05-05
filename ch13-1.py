@@ -10,4 +10,4 @@ print(data)
 
 print(data['col0'])
 print(data['col1'])
-print(data['col2'])
+print(data['col2']) 
