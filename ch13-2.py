@@ -32,4 +32,4 @@ day_data = dashin_day3.ix['16.02.24']
 print(day_data)
 print(type(day_data))
 print(dashin_day3.columns)
-print(dashin_day3.index)
+print(dashin_day3.index) 
