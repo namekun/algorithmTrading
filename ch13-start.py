@@ -32,3 +32,4 @@ friend = Series([10, 20, 30], index=['kt', 'naver', 'sk'])
 merge = mine + friend # Series는 인덱싱이 다른 경우에도 알아서 인덱싱이 같은 값끼리 덧셈 연산을 수행한다.
 print(merge)
 
+ 
